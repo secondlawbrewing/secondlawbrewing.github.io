@@ -1,3 +1,3 @@
 # 2nd Law Brewing
-## Dave Catlett
+## [Dave Catlett](davecatlettjr.net)
 This is my **website**
